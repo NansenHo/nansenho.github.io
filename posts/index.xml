@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Nansen&#39;s Blogs</title>
+    <link>https://github.com/NansenHo/posts/</link>
+    <description>Recent content in Posts on Nansen&#39;s Blogs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-Hans</language>
+    <lastBuildDate>Wed, 26 May 2021 11:35:24 +0800</lastBuildDate><atom:link href="https://github.com/NansenHo/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>开博大吉</title>
+      <link>https://github.com/NansenHo/posts/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%89/</link>
+      <pubDate>Wed, 26 May 2021 11:35:24 +0800</pubDate>
+      
+      <guid>https://github.com/NansenHo/posts/%E5%BC%80%E5%8D%9A%E5%A4%A7%E5%90%89/</guid>
+      <description>大家好 我的博客开通了，希望我能写出好文章给大家看。</description>
+    </item>
+    
+  </channel>
+</rss>
